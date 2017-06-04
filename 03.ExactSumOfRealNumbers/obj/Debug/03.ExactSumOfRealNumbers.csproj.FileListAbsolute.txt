@@ -1,0 +1,1 @@
+D:\Softuni\DataTypesАndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe.config

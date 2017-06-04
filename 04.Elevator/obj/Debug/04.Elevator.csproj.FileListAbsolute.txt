@@ -1,0 +1,5 @@
+D:\Softuni\DataTypesАndVariablesLab\04.Elevator\bin\Debug\04.Elevator.exe.config
+D:\Softuni\DataTypesАndVariablesLab\04.Elevator\bin\Debug\04.Elevator.exe
+D:\Softuni\DataTypesАndVariablesLab\04.Elevator\bin\Debug\04.Elevator.pdb
+D:\Softuni\DataTypesАndVariablesLab\04.Elevator\obj\Debug\04.Elevator.exe
+D:\Softuni\DataTypesАndVariablesLab\04.Elevator\obj\Debug\04.Elevator.pdb
